@@ -1,18 +1,28 @@
-<h1 align="center">👋 Привет! Я занимаюсь Data Science и Machine Learning</h1>
-<h3 align="center">📊 Превращаю данные в инсайты и работаю над интересными ML-проектами</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Привет! Я занимаюсь Data Science и Machine Learning
+</h1>
 
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Divider" width="100%">
-</div>
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=📊+Превращаю+данные+в+инсайты;🤖+Создаю+ML-модели;📈+Визуализирую+результаты;🔥+Постоянно+учусь+новому&center=true&width=500&height=50&color=ff6b6b&size=22&duration=3000&pause=1000">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Flufer&color=blue&style=flat-square&label=ПРОСМОТРЫ+ПРОФИЛЯ" alt="Просмотры профиля" />
+</p>
 
 ### 📊 Обо мне
 
-- 🔭 В настоящее время углубляюсь в мир Machine Learning и Data Analysis
+- 🔭 В настоящее время углубляюсь в Machine Learning и Data Analysis
 - 🌱 Изучаю передовые методы предсказательного моделирования и feature engineering
 - 📊 Увлекаюсь анализом данных и визуализацией
 - 🎯 Стремлюсь создавать модели, которые решают реальные проблемы
+
+### 🔄 Технологии, которые я использую
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,pandas,numpy,git,github,vscode,jupyter&theme=dark&perline=5" />
+</p>
 
 ### 🛠 Мой технический стек
 
@@ -35,13 +45,31 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flufer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-### 🏆 GitHub трофеи
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Flufer&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 🐍 Моя активность
 
 ![Snake animation](https://github.com/Flufer/Flufer/blob/output/github-contribution-grid-snake.svg)
+
+### 📈 Мои активности за неделю
+
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect x="50" y="150" width="40" height="50" fill="#ff6b6b">
+    <animate attributeName="height" from="0" to="50" dur="1s" fill="freeze"/>
+  </rect>
+  <rect x="110" y="130" width="40" height="70" fill="#4ecdc4">
+    <animate attributeName="height" from="0" to="70" dur="1.5s" fill="freeze"/>
+  </rect>
+  <rect x="170" y="110" width="40" height="90" fill="#45b7d1">
+    <animate attributeName="height" from="0" to="90" dur="2s" fill="freeze"/>
+  </rect>
+  <rect x="230" y="140" width="40" height="60" fill="#96ceb4">
+    <animate attributeName="height" from="0" to="60" dur="1.2s" fill="freeze"/>
+  </rect>
+  <text x="60" y="170" font-size="12" text-anchor="middle">Пн</text>
+  <text x="120" y="170" font-size="12" text-anchor="middle">Вт</text>
+  <text x="180" y="170" font-size="12" text-anchor="middle">Ср</text>
+  <text x="240" y="170" font-size="12" text-anchor="middle">Чт</text>
+</svg>
+
 
 ### 🚀 Мои проекты
 
