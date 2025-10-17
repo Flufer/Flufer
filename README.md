@@ -1,20 +1,20 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Привет! Я занимаюсь Data Science и Machine Learning
+  Data Scientist & Machine Learning Engineer
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖+Создаю+ML-модели;📈+Визуализирую+результаты;🔥+Постоянно+учусь+новому&center=true&width=500&height=50&color=ff6b6b&size=22&duration=3000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖+Building+ML+models;📈+Visualizing+results;🔥+Always+learning+new+things&center=true&width=500&height=50&color=ff6b6b&size=22&duration=3000&pause=1000">
 </p>
 
-### 📊 Обо мне
+### 📊 About Me
 
-- 🔭 В настоящее время углубляюсь в Machine Learning и Data Analysis
-- 🌱 Изучаю передовые методы предсказательного моделирования и feature engineering
-- 📊 Увлекаюсь анализом данных и визуализацией
-- 🎯 Стремлюсь создавать модели, которые решают реальные проблемы
+- 🔭 Currently diving deep into Machine Learning and Data Analysis
+- 🌱 Learning advanced predictive modeling and feature engineering techniques
+- 📊 Passionate about data analysis and visualization
+- 🎯 Aiming to build models that solve real-world problems
 
-### 🛠 Мой технический стек
+### 🛠 My Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -30,18 +30,18 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-### 📈 Статистика GitHub
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Flufer&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flufer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-### 🐍 Моя активность
+### 🐍 My Activity
 
 ![Snake animation](https://github.com/Flufer/Flufer/blob/output/github-contribution-grid-snake.svg)
 
-### 🚀 Мои проекты
+### 🚀 My Projects
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 </div>
 
-### 📫 Как со мной связаться
+### 📫 How to Reach Me
 
 <p align="center">
   <a href="https://github.com/Flufer">
@@ -64,5 +64,5 @@
 <br>
 
 <p align="center">
-  <i>⭐ Не стесняйтесь заглянуть в мои проекты и оставить звёздочку, если они вам понравились!</i>
+  <i>⭐ Feel free to check out my projects and leave a star if you liked them!</i>
 </p>
