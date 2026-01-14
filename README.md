@@ -3,15 +3,11 @@
   Machine Learning Engineer | Data Scientist
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖+Machine+Learning+from+Scratch;📊+EDA+and+Data+Analysis;📈+Models+that+actually+work;🔥+Always+learning&center=true&width=520&height=50&color=ff6b6b&size=22&duration=3000&pause=1000">
-</p>
-
 ---
 
 ## 👋 About Me
 
-Я начинающий **Machine Learning Engineer / Data Scientist**.
+I'm an aspiring **Machine Learning Engineer / Data Scientist**.
 
 ---
 
@@ -34,15 +30,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flufer&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flufer&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Flufer&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flufer&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165"/>
 </p>
-
----
-
-## 🐍 Contribution Activity
-
-![Snake animation](https://github.com/Flufer/Flufer/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
