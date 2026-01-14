@@ -3,13 +3,10 @@
   Machine Learning Engineer | Data Scientist
 </h1>
 
----
-
 ## 👋 About Me
 
 I'm an aspiring **Machine Learning Engineer / Data Scientist**.
 
----
 
 ## 🛠 Tech Stack
 
@@ -25,7 +22,7 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -34,7 +31,11 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flufer&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165"/>
 </p>
 
----
+
+## 🐍 Contribution Activity
+
+![Snake animation](https://github.com/Flufer/Flufer/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 📫 Contact
 
@@ -44,7 +45,6 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
   </a>
 </p>
 
----
 
 <p align="center">
   <i>⭐ If you like my projects — feel free to star them</i>
