@@ -15,20 +15,19 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge">
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Flufer&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Flufer&theme=radical&no-frame=true&row=2&column=3" height="165"/>
-</p>
+## 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flufer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🐍 Contribution Activity
