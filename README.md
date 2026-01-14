@@ -23,12 +23,11 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
 </p>
 
 
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flufer&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flufer&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Flufer&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Flufer&theme=radical&no-frame=true&row=2&column=3" height="165"/>
 </p>
 
 
