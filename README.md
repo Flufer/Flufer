@@ -30,6 +30,8 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Flufer&theme=tokyonight)](https://git.io/streak-stats)
 
+[![My GitHub stats](https://github-readme-stats-omega-ruddy-97.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🐍 Contribution Activity
 
 ![Snake animation](https://github.com/Flufer/Flufer/blob/output/github-contribution-grid-snake.svg)
