@@ -22,7 +22,6 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Flufer&theme=tokyonight)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Flufer&theme=tokyonight)](https://git.io/streak-stats)
 
