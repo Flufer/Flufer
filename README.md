@@ -28,14 +28,17 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
 
 ## 🐍 Contribution Activity
 
-![Snake animation](https://github.com/Flufer/Flufer/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/Flufer/Flufer/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/Flufer/Flufer/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## 📫 Contact
 
 <p align="center">
   <a href="https://github.com/Flufer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://t.me/flufer_20">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
 
