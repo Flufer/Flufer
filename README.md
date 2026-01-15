@@ -5,9 +5,9 @@
 
 I'm an aspiring **Machine Learning Engineer / Data Scientist**.
 
-🌱 Currently learning: PyTorch, CNN
-💡 Interested in: Computer Vision, NLP
-🎯 Goal: To contribute to impactful AI projects and grow as an ML professional
+🌱 Currently learning: PyTorch, CNN  
+💡 Interested in: Computer Vision, NLP  
+🎯 Goal: To contribute to impactful AI projects and grow as an ML professional  
 
 ## 🛠 Tech Stack
 
