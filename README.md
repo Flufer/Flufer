@@ -30,7 +30,9 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Flufer&theme=tokyonight)](https://git.io/streak-stats)
 
-[![My GitHub stats](github-readme-stats-omega-ruddy-97.vercel.app?username=Flufer)](https://github.com/Flufer/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-omega-ruddy-97.vercel.app/api?username=Flufer&show_icons=true&theme=tokyonight)](https://github.com/Flufer)
+
+[![Top Langs](https://github-readme-stats-omega-ruddy-97.vercel.app/api/top-langs/?username=Flufer&layout=compact&theme=tokyonight)](https://github.com/Flufer)
 
 ## 🐍 Contribution Activity
 
