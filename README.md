@@ -28,9 +28,7 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
 
 ## 📊 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Flufer&theme=cobalt&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flufer&layout=compact)](https://github.com/Flufer)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Flufer)](https://github.com/Flufer/github-readme-stats)
 
 
 ## 🐍 Contribution Activity
