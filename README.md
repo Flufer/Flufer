@@ -28,8 +28,7 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
 
 ## 📊 GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Flufer)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Flufer&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🐍 Contribution Activity
 
