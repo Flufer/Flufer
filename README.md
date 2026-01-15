@@ -20,11 +20,6 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
 
-## 📊 GitHub Stats
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Flufer&theme=tokyonight)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats-omega-ruddy-97.vercel.app/api/top-langs/?username=Flufer&layout=compact&theme=tokyonight)](https://github.com/Flufer)
 
 ## 🐍 Contribution Activity
