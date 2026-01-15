@@ -5,6 +5,9 @@
 
 I'm an aspiring **Machine Learning Engineer / Data Scientist**.
 
+🌱 Currently learning: PyTorch, CNN
+💡 Interested in: Computer Vision, NLP
+🎯 Goal: To contribute to impactful AI projects and grow as an ML professional
 
 ## 🛠 Tech Stack
 
@@ -20,7 +23,21 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
 
-[![Top Langs](https://github-readme-stats-omega-ruddy-97.vercel.app/api/top-langs/?username=Flufer&layout=compact&theme=tokyonight)](https://github.com/Flufer)
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Flufer">
+    <img height="165" align="center" src="https://github-readme-stats-omega-ruddy-97.vercel.app/api?username=Flufer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=issues" alt="My GitHub stats" />
+  </a>
+  
+  <a href="https://github.com/Flufer">
+    <img height="165" align="center" src="https://github-readme-stats-omega-ruddy-97.vercel.app/api/top-langs/?username=Flufer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Flufer&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 ## 🐍 Contribution Activity
 
