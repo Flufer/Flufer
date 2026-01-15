@@ -24,6 +24,8 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Flufer&theme=tokyonight)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Flufer&theme=tokyonight)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats-omega-ruddy-97.vercel.app/api/top-langs/?username=Flufer&layout=compact&theme=tokyonight)](https://github.com/Flufer)
 
 ## 🐍 Contribution Activity
