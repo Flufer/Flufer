@@ -22,7 +22,7 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
 
 ## 📊 GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats-omega-ruddy-97.vercel.app/api?username=Flufer&show_icons=true&theme=tokyonight)](https://github.com/Flufer)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Flufer&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-omega-ruddy-97.vercel.app/api/top-langs/?username=Flufer&layout=compact&theme=tokyonight)](https://github.com/Flufer)
 
