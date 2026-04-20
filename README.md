@@ -27,16 +27,21 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
 
 <p align="center">
   <a href="https://github.com/Flufer">
-    <img height="165" align="center" src="https://github-readme-stats-omega-ruddy-97.vercel.app/api?username=Flufer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=issues" alt="My GitHub stats" />
+    <img height="165" align="center"
+      src="https://github-readme-stats.vercel.app/api?username=Flufer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+      alt="GitHub stats" />
   </a>
-  
+
   <a href="https://github.com/Flufer">
-    <img height="165" align="center" src="https://github-readme-stats-omega-ruddy-97.vercel.app/api/top-langs/?username=Flufer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss" alt="Top Languages" />
+    <img height="165" align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flufer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss"
+      alt="Top languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Flufer&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Flufer&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" 
+       alt="Profile views" />
 </p>
 
 ## 🐍 Contribution Activity
