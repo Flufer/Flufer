@@ -28,7 +28,7 @@ I'm an aspiring **Machine Learning Engineer / Data Scientist**.
 <p align="center">
   <a href="https://github.com/Flufer">
     <img height="165" align="center"
-      src="https://github-readme-stats.vercel.app/api?username=Flufer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+      src="https://github-readme-stats.vercel.app/api?username=Flufer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
       alt="GitHub stats" />
   </a>
 
